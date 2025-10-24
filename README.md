@@ -28,6 +28,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0020-valid-parentheses](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
+| [3379-score-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
