@@ -33,4 +33,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
