@@ -9,6 +9,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0001-two-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
+| [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0020-valid-parentheses](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
+| [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
