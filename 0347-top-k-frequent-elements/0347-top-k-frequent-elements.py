@@ -6,11 +6,9 @@ class Solution:
             if nums[i] in freqMap: freqMap[nums[i]] += 1
             else: freqMap[nums[i]] = 1
 
-        j = 1        
-        while j <= k:
+        for j in range(k):
             kth = max(freqMap, key=freqMap.get)
             topK.append(kth)
             del freqMap[kth]
-            j += 1
         
         return topK
