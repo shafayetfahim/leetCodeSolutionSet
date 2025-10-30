@@ -9,6 +9,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0001-two-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -19,12 +20,14 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -52,4 +55,24 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
