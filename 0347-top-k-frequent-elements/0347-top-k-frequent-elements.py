@@ -5,10 +5,16 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] in freqMap: freqMap[nums[i]] += 1
             else: freqMap[nums[i]] = 1
-
-        for j in range(k):
-            kth = max(freqMap, key=freqMap.get)
-            topK.append(kth)
-            del freqMap[kth]
         
-        return topK
+
+        # My initial solution.
+        # j = 1        
+        # while j <= k:
+        #     kth = max(freqMap, key=freqMap.get)
+        #     topK.append(kth)
+        #     del freqMap[kth]
+        #     j += 1
+        # return topK
+
+        # List comprehension and lambda functions for sorting.
+        return [num for num, _ in sorted(freqMap.items(), key=lambda x: x[1], reverse=True)[:k]]
