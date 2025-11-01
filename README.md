@@ -7,6 +7,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
@@ -54,6 +55,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
