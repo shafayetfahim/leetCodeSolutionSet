@@ -60,6 +60,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -77,4 +78,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
