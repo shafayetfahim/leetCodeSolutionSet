@@ -10,6 +10,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
@@ -82,4 +83,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
