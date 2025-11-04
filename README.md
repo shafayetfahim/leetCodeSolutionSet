@@ -48,6 +48,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
+| [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Matrix
 |  |
@@ -58,6 +59,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
+| [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,4 +89,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
