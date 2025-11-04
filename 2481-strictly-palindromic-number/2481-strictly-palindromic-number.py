@@ -1,10 +1,10 @@
 class Solution:
     def isStrictlyPalindromic(self, n: int) -> bool:
         for i in range(2, (n-1)):
-            digits = ""
+            digits = []
             temp = n
             while temp != 0:
-                digits += str(temp % i)
+                digits.append(temp % i)
                 temp //= i
             left, right = 0, len(digits)-1
             while left < right:
