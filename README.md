@@ -7,6 +7,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
@@ -57,6 +58,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
@@ -93,4 +95,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
