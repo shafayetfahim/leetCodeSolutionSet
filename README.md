@@ -53,6 +53,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Matrix
@@ -104,4 +105,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
