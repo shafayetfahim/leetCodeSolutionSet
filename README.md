@@ -96,6 +96,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
+| [0461-hamming-distance](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0461-hamming-distance) |
 ## Prefix Sum
 |  |
 | ------- |
