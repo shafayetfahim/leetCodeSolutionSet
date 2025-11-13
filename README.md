@@ -27,6 +27,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
 ## Sorting
@@ -45,6 +46,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0058-length-of-last-word](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3379-score-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -88,6 +90,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
@@ -115,4 +118,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
