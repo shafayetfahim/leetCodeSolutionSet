@@ -13,6 +13,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0136-single-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
@@ -26,6 +27,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -36,6 +38,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -59,6 +62,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Matrix
@@ -101,6 +105,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0136-single-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0461-hamming-distance) |
 ## Prefix Sum
 |  |
@@ -118,6 +123,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
