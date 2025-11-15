@@ -10,6 +10,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
@@ -25,6 +26,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0001-two-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
@@ -128,4 +130,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
