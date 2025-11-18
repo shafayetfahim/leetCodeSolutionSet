@@ -19,6 +19,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
 ## Sorting
@@ -70,6 +72,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
