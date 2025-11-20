@@ -21,6 +21,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,4 +143,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 <!---LeetCode Topics End-->
