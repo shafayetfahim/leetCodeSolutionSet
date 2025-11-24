@@ -17,6 +17,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1580-shuffle-the-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
@@ -122,6 +123,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Prefix Sum
 |  |
 | ------- |
