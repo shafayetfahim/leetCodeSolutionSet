@@ -4,7 +4,7 @@ class Solution:
         output = []
 
         for i, num in enumerate(nums):
-            sum = sum * 2 + num
+            sum = (sum * 2 + num) % 5
             if sum%5 == 0: output.append(True)
             else: output.append(False)
         
