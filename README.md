@@ -61,6 +61,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
@@ -80,6 +81,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2812-find-the-maximum-achievable-number) |
