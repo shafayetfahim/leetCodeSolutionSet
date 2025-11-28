@@ -41,6 +41,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
@@ -66,6 +67,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3379-score-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -115,6 +117,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
