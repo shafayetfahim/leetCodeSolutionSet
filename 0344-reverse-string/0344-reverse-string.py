@@ -4,11 +4,11 @@ class Solution:
         Do not return anything, modify s in-place instead.
         """
         i = 0
-        while i < len(s)/2:
+        for i in range(len(s)//2):
+            right = len(s)-i-1
             temp = s[i]
-            s[i] = s[len(s)-i-1]
-            s[len(s)-i-1] = temp
-            i += 1
+            s[i] = s[right]
+            s[right] = temp
 
     # at s[i], replace with len(i-1) and replace len(i-1) with s[i]
     # "o e l l o"
