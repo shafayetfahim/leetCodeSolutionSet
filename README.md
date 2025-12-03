@@ -62,6 +62,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
@@ -102,6 +103,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0344-reverse-string) |
@@ -179,4 +181,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0164-maximum-gap) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
