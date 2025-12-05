@@ -1,7 +1,9 @@
 import re
 class Solution:
     def mostWordsFound(self, sentences: List[str]) -> int:
-        sentences = [re.sub(r"[^ ]", "", sentence) for sentence in sentences]
-        return len(max(sentences))+1            
+        output = [0]*len(sentences)
+        for i in range(len(sentences)):
+            output[i] = (sentences[i].count(" "))
+        return max(output)+1
 
         
