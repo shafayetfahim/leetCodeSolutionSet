@@ -82,6 +82,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3379-score-of-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -177,6 +178,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Simulation
 |  |
 | ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 ## Backtracking
 |  |
