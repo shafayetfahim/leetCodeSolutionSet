@@ -69,6 +69,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0205-isomorphic-strings) |
@@ -92,6 +93,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
@@ -144,6 +146,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
@@ -179,6 +182,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 ## Backtracking
