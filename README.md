@@ -93,6 +93,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
