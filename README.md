@@ -14,6 +14,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
@@ -58,6 +60,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
@@ -124,6 +127,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -138,6 +142,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
