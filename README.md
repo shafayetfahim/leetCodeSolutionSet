@@ -107,6 +107,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0171-excel-sheet-column-number) |
+| [0263-ugly-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
