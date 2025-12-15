@@ -84,6 +84,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -109,6 +110,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0171-excel-sheet-column-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2812-find-the-maximum-achievable-number) |
@@ -198,6 +200,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 ## Backtracking
