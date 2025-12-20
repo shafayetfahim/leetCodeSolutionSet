@@ -1,4 +1,5 @@
+from collections import Counter
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        return len(set(nums)) != len(nums)
-        
+        return (Counter(nums).most_common()[0][1]) > 1
+         
