@@ -1,17 +1,17 @@
-import math
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        zero_count = nums.count(0)
-        productList = []
-        totalProduct = math.prod(nums)
+        n = len(nums)
+        res = [1]*n
 
-        sansZero = [num for num in nums if num != 0]
-        if len(sansZero) == 0: sansZero = 0
-        else: sansZero = math.prod(sansZero)
+        prefix = 1
+        for i in range(n):
+            res[i] = prefix
+            prefix *= nums[i]
+        print(res)
 
-        for i in range(len(nums)):
-            if zero_count > 1: productList.append(0)
-            elif nums[i] == 0: productList.append(sansZero)
-            else: productList.append(int(totalProduct * (nums[i] ** -1)))
-        return productList
+        postfix = 1
+        for i in range(n - 1, -1, -1):
+            res[i] *= postfix
+            postfix *= nums[i]
         
+        return res
