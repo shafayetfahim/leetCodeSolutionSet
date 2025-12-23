@@ -11,6 +11,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0164-maximum-gap) |
@@ -235,4 +236,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
