@@ -9,6 +9,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0001-two-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0066-plus-one) |
@@ -201,6 +202,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0349-intersection-of-two-arrays) |
