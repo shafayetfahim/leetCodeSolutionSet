@@ -9,6 +9,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0001-two-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0007-reverse-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
@@ -129,6 +131,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0048-rotate-image) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
