@@ -25,6 +25,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0283-move-zeroes](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -79,6 +80,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0414-third-maximum-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
 ## String
