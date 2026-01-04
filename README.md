@@ -104,6 +104,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
@@ -132,6 +133,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0231-power-of-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
@@ -196,6 +198,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0231-power-of-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
