@@ -29,6 +29,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0414-third-maximum-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -63,6 +64,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -110,6 +112,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
