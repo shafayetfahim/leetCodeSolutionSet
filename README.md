@@ -144,6 +144,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
+| [2752-sum-multiples](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
