@@ -40,6 +40,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
