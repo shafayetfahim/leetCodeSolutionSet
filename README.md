@@ -143,6 +143,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
+| [1448-maximum-69-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2752-sum-multiples) |
@@ -227,6 +228,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
