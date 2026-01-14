@@ -289,4 +289,20 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
