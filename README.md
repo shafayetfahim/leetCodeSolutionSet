@@ -321,4 +321,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
