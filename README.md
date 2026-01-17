@@ -146,6 +146,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1448-maximum-69-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -325,4 +326,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
