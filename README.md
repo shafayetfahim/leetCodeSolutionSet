@@ -272,10 +272,12 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
