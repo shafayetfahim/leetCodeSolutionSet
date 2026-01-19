@@ -43,6 +43,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2876-number-of-employees-who-met-the-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
@@ -151,6 +152,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2812-find-the-maximum-achievable-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Matrix
