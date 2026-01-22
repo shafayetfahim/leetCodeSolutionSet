@@ -155,6 +155,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4168-mirror-distance-of-an-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4168-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
