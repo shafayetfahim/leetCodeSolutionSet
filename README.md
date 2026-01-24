@@ -116,6 +116,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
