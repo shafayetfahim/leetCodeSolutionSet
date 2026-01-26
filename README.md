@@ -33,6 +33,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1580-shuffle-the-array) |
@@ -91,6 +92,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0349-intersection-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0414-third-maximum-number) |
+| [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
 ## String
