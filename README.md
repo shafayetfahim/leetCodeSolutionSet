@@ -145,6 +145,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -259,6 +260,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
 | [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
@@ -347,5 +349,6 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
