@@ -1,7 +1,4 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        while True:
-            if len(str(num)) == 1: return num
-            else: num = sum([int(digit) for digit in str(num)])
-        
-        
+        if num == 0: return 0
+        return 1 + (num - 1) % 9
