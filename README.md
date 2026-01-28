@@ -312,6 +312,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -338,6 +339,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0572-subtree-of-another-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0783-search-in-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -351,4 +353,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0258-add-digits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2491-smallest-even-multiple) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
