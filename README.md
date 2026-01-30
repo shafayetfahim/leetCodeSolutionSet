@@ -143,6 +143,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0066-plus-one](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0258-add-digits) |
@@ -292,6 +293,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0392-is-subsequence) |
@@ -357,4 +359,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0783-search-in-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
