@@ -31,6 +31,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0485-max-consecutive-ones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
@@ -248,6 +249,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0374-guess-number-higher-or-lower) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Queue
 |  |
