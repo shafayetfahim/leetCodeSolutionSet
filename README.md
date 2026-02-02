@@ -142,6 +142,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0007-reverse-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
@@ -217,6 +218,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
