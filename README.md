@@ -31,6 +31,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0485-max-consecutive-ones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
+| [0605-can-place-flowers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -247,6 +248,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
