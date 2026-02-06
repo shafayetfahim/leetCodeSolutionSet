@@ -32,6 +32,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -375,4 +376,8 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
