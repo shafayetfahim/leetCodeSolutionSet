@@ -47,6 +47,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
@@ -245,6 +246,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
 ## Brainteaser
 |  |
 | ------- |
