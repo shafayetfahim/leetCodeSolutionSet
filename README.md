@@ -34,6 +34,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0605-can-place-flowers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -247,6 +248,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
 ## Brainteaser
