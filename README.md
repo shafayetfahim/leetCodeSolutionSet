@@ -165,6 +165,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
+| [1236-n-th-tribonacci-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
@@ -320,6 +321,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -386,6 +388,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
