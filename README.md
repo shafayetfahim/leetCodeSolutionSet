@@ -248,6 +248,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
