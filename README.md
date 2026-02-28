@@ -143,6 +143,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1146-greatest-common-divisor-of-strings) |
