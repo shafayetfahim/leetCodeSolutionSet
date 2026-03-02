@@ -57,6 +57,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
+| [2714-left-and-right-sum-differences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -280,6 +281,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0724-find-pivot-index](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
+| [2714-left-and-right-sum-differences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2714-left-and-right-sum-differences) |
 ## Brainteaser
 |  |
 | ------- |
