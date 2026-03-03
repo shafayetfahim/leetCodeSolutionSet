@@ -99,6 +99,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +161,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4177-reverse-string-prefix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4177-reverse-string-prefix) |
 ## Stack
 |  |
