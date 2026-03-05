@@ -120,6 +120,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0645-set-mismatch](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0645-set-mismatch) |
 | [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
 ## String
@@ -156,6 +157,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1651-shuffle-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1894-merge-strings-alternately) |
+| [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
