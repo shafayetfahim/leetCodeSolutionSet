@@ -157,6 +157,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1651-shuffle-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1894-merge-strings-alternately) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
