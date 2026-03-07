@@ -36,6 +36,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
@@ -117,6 +118,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0389-find-the-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0645-set-mismatch) |
 | [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -193,6 +195,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1236-n-th-tribonacci-number) |
