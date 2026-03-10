@@ -61,6 +61,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
@@ -207,6 +208,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2491-smallest-even-multiple) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
