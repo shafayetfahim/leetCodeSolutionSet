@@ -290,6 +290,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0645-set-mismatch](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0693-binary-number-with-alternating-bits) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
+| [1054-complement-of-base-10-integer](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
