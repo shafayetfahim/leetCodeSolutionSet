@@ -42,6 +42,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0932-monotonic-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1044-find-common-characters) |
@@ -127,6 +128,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0561-array-partition](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0645-set-mismatch) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
