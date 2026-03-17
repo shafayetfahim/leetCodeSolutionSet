@@ -52,6 +52,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1319-unique-number-of-occurrences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1603-running-sum-of-1d-array) |
@@ -102,6 +103,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1044-find-common-characters](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
@@ -274,6 +276,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
