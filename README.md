@@ -169,6 +169,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 | [1044-find-common-characters](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1044-find-common-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1542-consecutive-characters](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
