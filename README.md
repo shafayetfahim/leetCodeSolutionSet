@@ -49,6 +49,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1044-find-common-characters](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1044-find-common-characters) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1137-height-checker) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1392-find-the-difference-of-two-arrays) |
