@@ -59,6 +59,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1651-shuffle-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -342,6 +343,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0374-guess-number-higher-or-lower](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1646-kth-missing-positive-number) |
 ## Queue
 |  |
 | ------- |
