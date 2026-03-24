@@ -49,6 +49,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1044-find-common-characters](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1044-find-common-characters) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
@@ -137,6 +138,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0645-set-mismatch](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
