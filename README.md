@@ -165,6 +165,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0387-first-unique-character-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0434-number-of-segments-in-a-string) |
@@ -200,6 +201,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
 ## Math
 |  |
@@ -391,6 +393,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0203-remove-linked-list-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
