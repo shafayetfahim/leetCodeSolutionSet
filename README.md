@@ -74,6 +74,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2714-left-and-right-sum-differences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -114,6 +115,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
