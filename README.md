@@ -14,6 +14,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0048-rotate-image](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -305,6 +306,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0191-number-of-1-bits) |
@@ -373,6 +375,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
 ## Radix Sort
 |  |
