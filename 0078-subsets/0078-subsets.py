@@ -1,7 +1,8 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        result = [[]]
+        res = [[]]
         for num in nums:
-            new_subsets = [current_subset + [num] for current_subset in result]
-            result.extend(new_subsets)            
-        return result
+            for i in range(len(res)):
+                res.append(res[i] + [num])
+                
+        return res
