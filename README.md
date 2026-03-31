@@ -189,6 +189,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
