@@ -68,6 +68,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
@@ -115,6 +116,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1510-find-lucky-integer-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -298,6 +300,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0837-most-common-word](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0837-most-common-word) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
