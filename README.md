@@ -197,6 +197,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
@@ -383,6 +384,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 ## Backtracking
