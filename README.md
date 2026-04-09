@@ -57,6 +57,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1319-unique-number-of-occurrences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1580-shuffle-the-array) |
@@ -114,6 +115,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1297-maximum-number-of-balloons](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -148,6 +150,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1137-height-checker](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1306-minimum-absolute-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
@@ -523,6 +526,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | ------- |
 | [0561-array-partition](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
 |  |
 | ------- |
