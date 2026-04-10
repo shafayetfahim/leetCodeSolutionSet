@@ -193,6 +193,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1297-maximum-number-of-balloons](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1297-maximum-number-of-balloons) |
 | [1542-consecutive-characters](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1542-consecutive-characters) |
 | [1651-shuffle-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1651-shuffle-string) |
+| [1660-thousand-separator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1660-thousand-separator) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1894-merge-strings-alternately) |
