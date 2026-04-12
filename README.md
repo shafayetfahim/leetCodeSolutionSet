@@ -72,6 +72,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -122,6 +123,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -314,6 +316,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
