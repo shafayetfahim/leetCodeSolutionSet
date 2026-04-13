@@ -77,6 +77,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2714-left-and-right-sum-differences) |
+| [2836-neither-minimum-nor-maximum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -157,6 +158,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
+| [2836-neither-minimum-nor-maximum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2836-neither-minimum-nor-maximum) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
