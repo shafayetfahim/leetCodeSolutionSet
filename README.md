@@ -258,6 +258,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2752-sum-multiples](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3371-harshad-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3371-harshad-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3830-find-closest-person) |
