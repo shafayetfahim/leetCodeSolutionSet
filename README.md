@@ -211,6 +211,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2470-removing-stars-from-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3194-find-words-containing-character](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3194-find-words-containing-character) |
@@ -229,6 +230,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0145-binary-tree-postorder-traversal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
+| [2470-removing-stars-from-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -399,6 +401,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2470-removing-stars-from-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 ## Backtracking
