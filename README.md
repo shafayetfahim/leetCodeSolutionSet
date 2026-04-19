@@ -89,6 +89,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
