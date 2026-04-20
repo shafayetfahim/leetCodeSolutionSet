@@ -72,6 +72,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
@@ -377,6 +378,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0561-array-partition](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1448-maximum-69-number) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Binary Search
 |  |
 | ------- |
