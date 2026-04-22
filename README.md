@@ -73,6 +73,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
+| [2058-concatenation-of-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2058-concatenation-of-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
@@ -413,6 +414,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
+| [2058-concatenation-of-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
