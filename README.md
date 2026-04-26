@@ -256,6 +256,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0258-add-digits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -396,6 +397,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
