@@ -45,6 +45,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0682-baseball-game](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0932-monotonic-array) |
@@ -464,6 +465,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1236-n-th-tribonacci-number) |
 ## Trie
