@@ -38,6 +38,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0495-teemo-attacking](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0643-maximum-average-subarray-i) |
@@ -118,6 +119,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0409-longest-palindrome](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0837-most-common-word) |
@@ -200,6 +202,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0500-keyboard-row](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0800-letter-case-permutation) |
