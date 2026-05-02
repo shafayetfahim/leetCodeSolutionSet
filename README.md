@@ -48,6 +48,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0837-most-common-word) |
 | [0932-monotonic-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -410,6 +411,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0367-valid-perfect-square](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1646-kth-missing-positive-number) |
 ## Queue
