@@ -26,6 +26,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0169-majority-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0202-happy-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0347-top-k-frequent-elements) |
@@ -572,6 +574,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0643-maximum-average-subarray-i) |
 ## Counting Sort
 |  |
