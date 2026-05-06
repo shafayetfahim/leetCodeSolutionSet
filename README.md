@@ -78,6 +78,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1833-find-the-highest-altitude](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2058-concatenation-of-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2058-concatenation-of-array) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
