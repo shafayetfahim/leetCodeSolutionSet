@@ -85,6 +85,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2714-left-and-right-sum-differences) |
@@ -144,6 +145,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -178,6 +180,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
@@ -318,6 +321,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [0953-reverse-only-letters](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1894-merge-strings-alternately) |
 | [2481-strictly-palindromic-number](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2481-strictly-palindromic-number) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [4177-reverse-string-prefix](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4177-reverse-string-prefix) |
 ## Divide and Conquer
