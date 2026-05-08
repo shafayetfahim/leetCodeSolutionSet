@@ -141,6 +141,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1741-sort-array-by-increasing-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1848-sum-of-unique-elements) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
@@ -231,6 +232,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [1894-merge-strings-alternately](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1944-truncate-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1944-truncate-sentence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2076-sum-of-digits-of-string-after-convert) |
