@@ -102,6 +102,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
+| [4252-first-unique-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4252-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [3934-coupon-code-validator](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3934-coupon-code-validator) |
 | [4008-restore-finishing-order](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4008-restore-finishing-order) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4087-maximum-substrings-with-distinct-start) |
+| [4252-first-unique-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4252-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -361,6 +363,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2486-most-frequent-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4252-first-unique-even-element](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4252-first-unique-even-element) |
 ## Quickselect
 |  |
 | ------- |
