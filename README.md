@@ -88,6 +88,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -447,6 +448,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2470-removing-stars-from-a-string) |
+| [2639-separate-the-digits-in-an-array](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2639-separate-the-digits-in-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/4058-compute-alternating-sum) |
 ## Backtracking
