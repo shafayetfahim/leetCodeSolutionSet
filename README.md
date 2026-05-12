@@ -241,6 +241,7 @@ This repository contains my solutions for LeetCode problems I complete. Created 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/shafayetfahim/leetCodeSolutionSet/tree/master/2532-remove-letter-to-equalize-frequency) |
